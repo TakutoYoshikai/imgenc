@@ -1,0 +1,28 @@
+{
+  "name": "imgenc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "bin": {
+    "imgenc": "./bin/imgenc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TakutoYoshikai/imgenc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TakutoYoshikai/imgenc/issues"
+  },
+  "homepage": "https://github.com/TakutoYoshikai/imgenc#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "file-encryptor": "^0.1.1"
+  }
+}
